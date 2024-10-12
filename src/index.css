@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Accessibility improvements */
+@layer base {
+  body {
+    @apply text-base leading-relaxed;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold leading-tight mb-4;
+  }
+  
+  a {
+    @apply underline;
+  }
+  
+  button, [type='button'], [type='reset'], [type='submit'] {
+    @apply cursor-pointer;
+  }
+  
+  input, textarea, select {
+    @apply p-2 border rounded;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  body {
+    @apply text-black bg-white;
+  }
+  
+  a {
+    @apply text-blue-700;
+  }
+  
+  button, [type='button'], [type='reset'], [type='submit'] {
+    @apply bg-blue-700 text-white border-2 border-black;
+  }
+}
+
+/* Larger text for better readability */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    @apply text-lg;
+  }
+}

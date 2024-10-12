@@ -1,0 +1,32 @@
+{
+  "header": {
+    "home": "Home",
+    "documentAnalysis": "Document Analysis",
+    "search": "Search",
+    "dashboard": "Dashboard"
+  },
+  "footer": {
+    "about": "About GovLex",
+    "aboutText": "GovLex is your comprehensive platform for advanced document analysis, legal research, and collaboration in the Algerian legal landscape.",
+    "quickLinks": "Quick Links",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "contactUs": "Contact Us",
+    "connectWithUs": "Connect With Us",
+    "allRightsReserved": "All rights reserved."
+  },
+  "search": {
+    "title": "Legal Document Search",
+    "placeholder": "Search for laws, regulations, or legal documents...",
+    "searchButton": "Search",
+    "filters": "Filters",
+    "documentType": "Document Type",
+    "laws": "Laws",
+    "regulations": "Regulations",
+    "courtDecisions": "Court Decisions",
+    "dateRange": "Date Range",
+    "searchResults": "Search Results",
+    "noResults": "No results found. Try adjusting your search query or filters.",
+    "viewDocument": "View Document"
+  }
+}

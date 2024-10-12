@@ -1,0 +1,32 @@
+{
+  "header": {
+    "home": "Accueil",
+    "documentAnalysis": "Analyse de Documents",
+    "search": "Recherche",
+    "dashboard": "Tableau de Bord"
+  },
+  "footer": {
+    "about": "À propos de GovLex",
+    "aboutText": "GovLex est votre plateforme complète pour l'analyse avancée de documents, la recherche juridique et la collaboration dans le paysage juridique algérien.",
+    "quickLinks": "Liens Rapides",
+    "termsOfService": "Conditions d'Utilisation",
+    "privacyPolicy": "Politique de Confidentialité",
+    "contactUs": "Contactez-nous",
+    "connectWithUs": "Connectez-vous avec Nous",
+    "allRightsReserved": "Tous droits réservés."
+  },
+  "search": {
+    "title": "Recherche de Documents Juridiques",
+    "placeholder": "Rechercher des lois, des règlements ou des documents juridiques...",
+    "searchButton": "Rechercher",
+    "filters": "Filtres",
+    "documentType": "Type de Document",
+    "laws": "Lois",
+    "regulations": "Règlements",
+    "courtDecisions": "Décisions de Justice",
+    "dateRange": "Plage de Dates",
+    "searchResults": "Résultats de la Recherche",
+    "noResults": "Aucun résultat trouvé. Essayez d'ajuster votre requête ou vos filtres.",
+    "viewDocument": "Voir le Document"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "header": {
+    "home": "الرئيسية",
+    "documentAnalysis": "تحليل المستندات",
+    "search": "البحث",
+    "dashboard": "لوحة التحكم"
+  },
+  "footer": {
+    "about": "عن GovLex",
+    "aboutText": "GovLex هي منصتك الشاملة للتحليل المتقدم للمستندات والبحث القانوني والتعاون في المشهد القانوني الجزائري.",
+    "quickLinks": "روابط سريعة",
+    "termsOfService": "شروط الخدمة",
+    "privacyPolicy": "سياسة الخصوصية",
+    "contactUs": "اتصل بنا",
+    "connectWithUs": "تواصل معنا",
+    "allRightsReserved": "جميع الحقوق محفوظة."
+  },
+  "search": {
+    "title": "البحث في الوثائق القانونية",
+    "placeholder": "ابحث عن القوانين واللوائح أو الوثائق القانونية...",
+    "searchButton": "بحث",
+    "filters": "التصفية",
+    "documentType": "نوع الوثيقة",
+    "laws": "القوانين",
+    "regulations": "اللوائح",
+    "courtDecisions": "قرارات المحكمة",
+    "dateRange": "النطاق الزمني",
+    "searchResults": "نتائج البحث",
+    "noResults": "لم يتم العثور على نتائج. حاول تعديل استعلام البحث أو المرشحات.",
+    "viewDocument": "عرض الوثيقة"
+  }
+}
